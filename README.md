@@ -1,6 +1,8 @@
-## Hi there 👋, I'm Laveden
-# 💫 About Me:
-🔭 I’m currently working on BashBuzz!<br>👯 I’m looking to collaborate on BashBuzz!<br>⚡ Fun fact, I'm a High Schooler!
+# Hi there 👋, I'm Laveden
+## 💫 About Me:
+🔭 I’m currently working on BashBuzz!<br>👯 I’m looking to collaborate on BashBuzz and WhyNET!<br>⚡ Fun fact, I'm a High Schooler!
+## ✨ My Projects:
+🛠️ [TextTools](text.mjt-gifts.com): A feature full website for text manipulation!<br>🌐 [BlueDOS](https://github.com/LavedenC1/BlueDOS): A sophisticated Bluetooth jamming tool!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-haddad-120b6a338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haddad.thomas19@gmail.com) 
 
