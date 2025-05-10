@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Laveden
 ## 💫 About Me:
-🔭 I’m currently working on BashBuzz!<br>👯 I’m looking to collaborate on BashBuzz and WhyNET!<br>⚡ Fun fact, I'm a High Schooler!
+🔭 I’m currently working on BashBuzz!<br>👯 I’m looking to collaborate on BashBuzz and 2c2bt!<br>⚡ Fun fact, I'm a High Schooler!
 ## ✨ My Projects:
 🛠️ [TextTools](text.mjt-gifts.com): A feature full website for text manipulation!<br>🌐 [BlueDOS](https://github.com/LavedenC1/BlueDOS): A sophisticated Bluetooth jamming tool!
 ## 🌐 Socials:
